@@ -1,4 +1,4 @@
-### Hey, I'm Lucas 🍎👨🏻‍💻
+# Hey, I'm Lucas 🍎👨🏻‍💻
 
 I am a passioned iOS Engineer, learning everyday something new and always seeking a way to inovate, solve problems and create a better way to live in this gigantic world.
 
@@ -30,7 +30,7 @@ I am a passioned iOS Engineer, learning everyday something new and always seekin
   <img align="center" alt="LUCAS-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-## Quote that changed my life
+### Quote that changed my life
 
 ***"There are no shortcuts to any place worth going"***
 
