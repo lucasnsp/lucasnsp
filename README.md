@@ -1,6 +1,8 @@
-### Hey, I'm Lucas
+### Hey, I'm Lucas 🍎👨🏻‍💻
 
-I am a passioned iOS Engineer, learning everyday something new and always seeking a way to inovate and create apps that can help the user to have easiest life using technology. 
+I am a passioned iOS Engineer, learning everyday something new and always seeking a way to inovate, solve problems and create a better way to live in this gigantic world.
+
+***⭐️ Everything is possible.*** 
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -28,11 +30,13 @@ I am a passioned iOS Engineer, learning everyday something new and always seekin
   <img align="center" alt="LUCAS-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-##
+## Quote that changed my life
+
+***"There are no shortcuts to any place worth going"***
+
 
 <div> 
   <a href="https://www.instagram.com/codeneves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5vM3fn9gCs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/lucasnevesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
