@@ -2,7 +2,7 @@
 
 I am a passioned iOS Engineer, learning everyday something new and always seeking a way to inovate, solve problems and create a better way to live in this gigantic world.
 
-***⭐️ "There are no shortcuts to any place worth going"***.
+***⭐️ "There are no shortcuts to any place worth going"***
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
